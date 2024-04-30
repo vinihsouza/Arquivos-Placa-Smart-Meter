@@ -1,0 +1,524 @@
+*************************************************************
+FileName = SmartMeter.GBR
+AutoAperture = True
+*************************************************************
+Generating : Dielectric 1
+      File : SmartMeter_Other_1.gbr
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : SmartMeter_Other.gbr
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D51
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : SmartMeter_Bottom_Component_Center.gbr
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : SmartMeter_Bottom_3D_Body.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : SmartMeter_Bottom_Courtyard.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : SmartMeter_Bottom_Assembly.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : SmartMeter_Top_Component_Center.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : SmartMeter_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D63
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : SmartMeter_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D14
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : V Cut
+      File : SmartMeter_V_Cut.gbr
+
+    Adding Layer      : V Cut
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Fab Notes
+      File : SmartMeter_Fab_Notes.gbr
+
+    Adding Layer      : Fab Notes
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : SmartMeter_Dimensions.gbr
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+    D16
+    D60
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Sheet
+      File : SmartMeter_Sheet.gbr
+
+    Adding Layer      : Sheet
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Route Tool Path
+      File : SmartMeter_Route_Tool_Path.gbr
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : SmartMeter_Top_Assembly.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : SmartMeter_Board.gbr
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : SmartMeter_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : SmartMeter_Top_3D_Body.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : SmartMeter_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : SmartMeter_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SmartMeter_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : SmartMeter_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : SmartMeter_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D46
+    D47
+    D48
+    D51
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : SmartMeter_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : SmartMeter_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D51
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : SmartMeter_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : SmartMeter_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D46
+    D47
+    D48
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SmartMeter_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : SmartMeter_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D46
+    D47
+    D48
+    D51
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : SmartMeter_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SmartMeter_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D14
+    D16
+    D62
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SmartMeter_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : SmartMeter_Profile.gbr
+
+
+Used DCodes :
+    D67
+*************************************************************
+

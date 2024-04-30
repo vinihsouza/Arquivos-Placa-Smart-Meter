@@ -1,0 +1,42 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: SmartMeter.GBR   29/04/2024  17:14:41
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Mechanical 1                            
+.gbr                Top 3D Body                             
+.gbr                Top Courtyard                           
+.gbr                Board                                   
+.gbr                Top Assembly                            
+.gbr                Route Tool Path                         
+.gbr                Sheet                                   
+.gbr                Dimensions                              
+.gbr                Fab Notes                               
+.gbr                V Cut                                   
+.gbr                Mechanical 13                           
+.gbr                Mechanical 15                           
+.gbr                Top Component Center                    
+.gbr                Bottom Assembly                         
+.gbr                Bottom Courtyard                        
+.gbr                Bottom 3D Body                          
+.gbr                Bottom Component Center                 
+.gbr                Keep-Out Layer                          
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Multi-Layer                             
+.gbr                Dielectric 1                            
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------
